@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Challenge for hidden encryption assignment
 
 This challenge consists of the following files:
@@ -17,3 +18,6 @@ placed in the output file for Task 2
 * task4.offset - the offset (in bytes) at which the blob should be
 placed in the output file for Task 4
 * README.md - this file
+=======
+# HiddenEncryption
+>>>>>>> 0c2bf9cc4f37de35f98634f8c939c4791e116016
