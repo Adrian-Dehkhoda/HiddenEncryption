@@ -2,6 +2,14 @@
 #Challenge for hidden encryption assignment
 
 This challenge consists of the following files:
+* Hidenc.java - uses AES to encrypt a file
+* Hiddec.java - uses AES to decrypt a file
+* file1.data - result for task 1
+* file2.data - result for task 2
+* file3.data - result for task 3
+* file4.data - result for task 4
+
+---------------------------------------------
 
 * task1.data - a container file with hidden encrypted data for Task 1
 * task1.key - the encryption key for the encrypted data in task1.data
